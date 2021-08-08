@@ -21,7 +21,7 @@
 
 Desktop version | Mobile version
 -------------------- | ----------------------
-![Desktop]()| ![mobile version]()
+![Desktop](https://user-images.githubusercontent.com/54015740/128644352-2f933248-3074-4b77-bbc1-3837b0a96877.jpg)| ![mobile version](https://user-images.githubusercontent.com/54015740/128644351-c9b3367d-a550-470b-897c-ee78140108f9.jpg)
 
 ---
 > Showcasing my best [Works](https://sheylapozo.github.io/Alt-Porfolio/).
