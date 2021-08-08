@@ -6,7 +6,7 @@
 
 ---
 
-> This is my personal alternative version Portfolio.
+> This is my personal alternative version Portfolio with all my works and contact info.
 
 ## 💖 Built With
 
@@ -24,12 +24,12 @@ Desktop version | Mobile version
 ![Desktop]()| ![mobile version]()
 
 ---
-> Showcasing my best works.
+> Showcasing my best [Works](https://sheylapozo.github.io/Alt-Porfolio/).
 ---
 
 ## 💖 Live Demo
 
-[Portfolio]()
+[Portfolio](https://sheylapozo.github.io/Alt-Porfolio/)
 
 ---
 
