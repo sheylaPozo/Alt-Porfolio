@@ -2,7 +2,7 @@
 
 ---
 
-## Alternative Personal Portfolio
+## Alternative Personal Portfolio 🥰🌱
 
 ---
 
